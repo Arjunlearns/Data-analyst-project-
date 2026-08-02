@@ -1,0 +1,6 @@
+cancellation_reason,occurrences,pct_of_cancellations,cumulative_pct
+Customer Cancelled,144,25.4,25.4
+Weather Disruption,120,21.1,46.5
+Traffic Delay,115,20.2,66.7
+Restaurant Delay,106,18.7,85.4
+Delivery Partner Unavailable,83,14.6,100.0

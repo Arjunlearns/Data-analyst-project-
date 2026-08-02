@@ -1,0 +1,2 @@
+total_orders,delivered_orders,cancelled_orders,cancellation_rate_pct,revenue_inr,avg_order_value_inr,avg_delivery_time_min
+6000,5432,568,9.47,1714911.81,315.71,37.2

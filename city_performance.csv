@@ -1,0 +1,8 @@
+region,city,total_orders,cancellation_rate_pct,revenue_inr,revenue_rank
+South,Bengaluru,1449,10.21,405475.89,1
+West,Mumbai,1049,8.67,300377.45,2
+North,Delhi,986,9.74,282762.98,3
+South,Chennai,715,9.51,210156.32,4
+South,Hyderabad,720,7.5,208434.4,5
+West,Pune,598,9.53,170010.96,6
+East,Kolkata,483,11.18,137693.81,7
