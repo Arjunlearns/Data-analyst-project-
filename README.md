@@ -64,14 +64,3 @@ cd python && python generate_report.py
 python build_dashboard.py
 ```
 
-## Suggested resume bullets
-
-- Designed a MySQL schema and wrote SQL queries (joins, window functions,
-  CTEs) to analyze 6,000+ delivery orders, identifying that traffic jams
-  and festival days more than double order cancellation rates.
-- Built a Python (Pandas) automation script that regenerates KPI and RCA
-  summary reports from raw order data, replacing manual spreadsheet
-  reporting.
-- Designed an Excel dashboard with KPI cards, trend charts, and root-cause
-  breakdowns (all formula-driven, no hardcoded values) to track revenue,
-  cancellation rate, and delivery performance for business stakeholders.
